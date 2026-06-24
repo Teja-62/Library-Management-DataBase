@@ -1,9 +1,8 @@
 # Library Management Database Project
 
 ## Intern Details
-- **Intern ID:** CITS1588
-- **Name:** BONDADA GAUTHAM SAI
-
+- **Intern ID:** CITS2525
+- **Name:** GUNNA HIMATEJA
 ## Project Title
 Library Management Database System
 
@@ -61,5 +60,5 @@ This project helps in understanding the fundamentals of relational databases and
 
 ---
 
-**Submitted By:** BONDADA GAUTHAM SAI  
-**Intern ID:** CITS1588
+**Submitted By:** GUNNA HIMATEJA
+**Intern ID:** CITS2525
